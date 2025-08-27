@@ -70,7 +70,7 @@ python backend.py
 # 4️⃣ Run the Streamlit UI
 streamlit run ui_app.py
 
-5️⃣ Open your browser
+# 5️⃣ Open your browser
 
 Navigate to: http://localhost:8501 to use the AI Analyzer.
 
