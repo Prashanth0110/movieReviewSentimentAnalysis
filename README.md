@@ -48,17 +48,6 @@ Plotly — interactive charts
 
 IMDB Dataset — labeled movie reviews
 
-# 📁 Project Structure
-MovieReviewAI/
-├─ backend.py           # Flask API for sentiment predictions
-├─ ui_app.py            # Streamlit frontend for testing AI
-├─ ai_module.py         # AI functions: load_model, predict_sentiment, load_sample_data
-├─ sentiment_model.pkl  # Trained ML model (saved)
-├─ vectorizer.pkl       # Saved text vectorizer
-├─ IMDB Dataset.csv     # Movie review dataset
-├─ README.md
-
-
 # Optional scripts (used during development / training):
 
 train.py — trains AI models and saves best model + vectorizer
